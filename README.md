@@ -1,5 +1,29 @@
 # Goty
 
+**Remember to install the npm packages in the backend**
+
+````
+npm install
+````
+
+**And with Angular CLI**
+````
+ng serve
+````
+
+**Features**
+ - Firebase Database
+ - Angular 9
+ - Real-time update
+
+Link: [https://games-graphic.web.app/inicio](https://games-graphic.web.app/inicio)
+
+**Screenshot 1**
+![screenshot](screen.png)
+
+**Screenshot 2**
+![screenshot1](screen1.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
 
 ## Development server

@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "games-graphic": {
+      "hosting": {
+        "goty": [
+          "games-graphic"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "games-graphic"
+  }
+}
